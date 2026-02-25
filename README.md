@@ -53,4 +53,4 @@ Digite sua opção: 3
 - Saída: O maior número é: 12
 
 Digite sua opção: 5
-- Saída: "Ok, se precisar é só me chamar novamente. Fim do programa."
+- Saída: Ok, se precisar é só me chamar novamente. Fim do programa.
