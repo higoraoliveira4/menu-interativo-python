@@ -34,12 +34,13 @@ Como executar
 ## Exemplo de uso
 Informe um número: 10
 Informe outro número: 5
+
 Agora escolha a opção desejada:
-[1] Somar
-[2] Multiplicar
-[3] Maior
-[4] Novos números
-[5] Sair do programa
+- [1] Somar
+- [2] Multiplicar
+- [3] Maior
+- [4] Novos números
+- [5] Sair do programa
 
 Digite sua opção: 1
 Saída: A soma dos dois números é 15.
