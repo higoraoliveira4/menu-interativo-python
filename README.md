@@ -43,14 +43,14 @@ Agora escolha a opção desejada:
 - [5] Sair do programa
 
 Digite sua opção: 1
-Saída: A soma dos dois números é 15.
+- Saída: A soma dos dois números é 15.
 
 Digite sua opção: 4
-Informe um novo número: 8
-Informe outro novo número: 12
+- Informe um novo número: 8
+- Informe outro novo número: 12
 
 Digite sua opção: 3
-Saída: O maior número é: 12
+- Saída: O maior número é: 12
 
 Digite sua opção: 5
-Saída: "Ok, se precisar é só me chamar novamente. Fim do programa."
+- Saída: "Ok, se precisar é só me chamar novamente. Fim do programa."
