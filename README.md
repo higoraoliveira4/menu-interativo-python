@@ -26,7 +26,8 @@ Permite:
 ## Tecnologias utilizadas
 
 - Python 3
-Como executar
+
+Como executar:
 - Certifique-se de que o Python 3 está instalado no computador
 - Baixe o arquivo deste repositório
 - Execute o arquivo pelo terminal ou por uma IDE de sua preferência
