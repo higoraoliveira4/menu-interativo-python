@@ -4,7 +4,7 @@ Projeto de estudo desenvolvido em Python que permite ao usuário realizar opera�
 
 ## Objetivo do projeto
 
-- Praticar conceitos fundamentais da linguagem Python, como:
+Praticar conceitos fundamentais da linguagem Python, como:
 - Entrada de dados pelo terminal
 - Estrutura de repetição (while)
 - Estruturas condicionais (if / elif)
